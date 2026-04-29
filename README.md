@@ -1,5 +1,4 @@
-
-
+LINK TO PROJECT: https://nathanf-dot.github.io/ma1805-spring-final-project/
 
 The Sound of Direction is an experimental interactive maze game that challenges the player to navigate without relying on vision. Instead of visual guidance, the player must depend on audio cues, spatial awareness, and memory to find the exit. The idea was to simulate blindness and was partly inspired by the Marvel superhero Daredevil. My original concept didn’t have much direction, but as I began developing the project, I started to understand what it could become. Alongside the themes of sensory limitation and perception, I leaned further into a sonar-based aesthetic, which is reflected in the pulse mechanic that briefly reveals the environment. I found it particularly engaging learning how to program the sound system that guides the player, especially experimenting with frequency and how subtle changes in pitch can communicate distance and direction.
 
